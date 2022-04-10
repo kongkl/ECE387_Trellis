@@ -1,6 +1,6 @@
 # ECE387_Trellis
 
-The end goal is to build a simon says type game using an Adafruit Trellis. The game will include the trellis with blue Leds, as well as a small speaker/buzzer that produces can produce sound when certain requirements are met.
+The end goal is to build a simon says type game using an Adafruit Trellis. The game will include the trellis with blue Leds, as well as a small speaker/buzzer that produces sound when certain requirements are met.
 
 
 Basic_test_3:
