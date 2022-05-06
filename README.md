@@ -21,6 +21,7 @@ Buzzer
 
 
 Basic_test_3:
+
   Retest of functionality after changing LEDs and wiring and fixing soldering issues.
   Link: https://youtube.com/shorts/IoshY7suL4Y?feature=share
   
@@ -28,6 +29,7 @@ Basic_test_3:
   
   
 trellis_press_light:
+
   Turns toggles light on button press. Modeled after Adafruit's "TrellisTest". Used to check the board after any modifications.
   
   <br />
