@@ -13,11 +13,11 @@ Basic_test_3:
   
 trellis_press_light:
   Turns toggles light on button press. Modeled after Adafruit's "TrellisTest". Used to check the board after any modifications.
+  
   <br />
   
   
 trellis_simon_says_buzzer:
-  
   Demo: https://www.youtube.com/watch?v=KBswI7jwS8Q
     
   Essentially the final product.
