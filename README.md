@@ -40,7 +40,8 @@ trellis_simon_says_buzzer:
   All keys have a tone assigned to them:
     D4 to FS6, in ascending order.
     
-    <br />
+  <br />
+    
     
   Currently not all button light up.
   This is due to a soldering issue, but I do not have a soldering iron with me to fix this.
