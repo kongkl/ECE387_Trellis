@@ -6,18 +6,18 @@ The end goal is to build a simon says type game using an Adafruit Trellis. The g
 Basic_test_3:
   Retest of functionality after changing LEDs and wiring and fixing soldering issues.
   Link: https://youtube.com/shorts/IoshY7suL4Y?feature=share
-
-
-
+  
+  
+  
 trellis_press_light:
   Turns toggles light on button press. Modeled after Adafruit's "TrellisTest". Used to check the board after any modifications.
-  \n
+  
   
   
 trellis_simon_says_buzzer:
-
-  Demo: https://www.youtube.com/watch?v=KBswI7jwS8Q
   
+  Demo: https://www.youtube.com/watch?v=KBswI7jwS8Q
+    
   Essentially the final product.
   The Trellis will cycle through all lights when first loaded up.
   The arduino will take 4 values from 0 - 15. These values will be the sequence the player has to remember for the game. Button repeats can happen.
