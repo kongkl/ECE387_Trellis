@@ -1,6 +1,22 @@
 # ECE387_Trellis
 
 The end goal is to build a simon says type game using an Adafruit Trellis. The game will include the trellis with blue Leds, as well as a small speaker/buzzer that produces sound when certain requirements are met.
+
+<br />
+
+
+Parts Used:
+<br />
+Arduino Uno rev 3 (or similar): https://store-usa.arduino.cc/products/arduino-uno-rev3/?gclid=CjwKCAjw682TBhATEiwA9crl39UJqeCbP0UVkE4m5o2mmc9Ts5tcpAu2kRH-IZsY8hpQY3qInnbqSxoCZ_cQAvD_BwE
+<br />
+Trellis Driver: https://www.adafruit.com/product/1616?gclid=CjwKCAjw682TBhATEiwA9crl3x7Js90mECAGpk3Ncqes4bI8I6nI6pnK6Upfue2ksYFu9l8VJElEkxoCBDwQAvD_BwE
+<br />
+Trellis Keypad: https://www.adafruit.com/product/1611
+<br />
+Blue 5mm LEDs: https://www.adafruit.com/product/780
+<br />
+Buzzer
+
 <br />
 
 
