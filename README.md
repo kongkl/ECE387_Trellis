@@ -1,6 +1,7 @@
 # ECE387_Trellis
 
 The end goal is to build a simon says type game using an Adafruit Trellis. The game will include the trellis with blue Leds, as well as a small speaker/buzzer that produces sound when certain requirements are met.
+<br />
 
 
 Basic_test_3:
@@ -12,7 +13,7 @@ Basic_test_3:
   
 trellis_press_light:
   Turns toggles light on button press. Modeled after Adafruit's "TrellisTest". Used to check the board after any modifications.
-  
+  <br />
   
   
 trellis_simon_says_buzzer:
