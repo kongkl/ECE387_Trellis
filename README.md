@@ -16,7 +16,8 @@ Trellis Keypad: https://www.adafruit.com/product/1611
 Blue 5mm LEDs: https://www.adafruit.com/product/780
 <br />
 Buzzer
-
+<br />
+wires
 <br />
 
 
