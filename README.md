@@ -12,7 +12,9 @@ trellis_press_light:
   
   
 trellis_simon_says_buzzer:
+
   Demo: https://www.youtube.com/watch?v=KBswI7jwS8Q
+  
   Essentially the final product.
   The Trellis will cycle through all lights when first loaded up.
   The arduino will take 4 values from 0 - 15. These values will be the sequence the player has to remember for the game. Button repeats can happen.
