@@ -43,5 +43,5 @@ trellis_simon_says_buzzer:
   <br />
     
     
-  Currently not all button light up.
+  Currently not all buttons light up.
   This is due to a soldering issue, but I do not have a soldering iron with me to fix this.
